@@ -4,9 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-/**
- * Created by User on 20/06/2017.
- */
 
 public class HelloActivity extends Activity {
 

@@ -1,6 +1,5 @@
 package com.example.android.studproject;
 
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
